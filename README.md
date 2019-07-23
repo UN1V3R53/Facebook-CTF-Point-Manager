@@ -10,5 +10,5 @@ Facebook-CTF-Point-Manager 이 툴은 Flag 값 공유를 막기 위한 목적으
 아래 영상은 위 설명은 영상으로 나타낸 것이다.
 
 
-[!(https://img.youtube.com/vi/NDHIUlJtXBM/0.jpg)](https://youtu.be/NDHIUlJtXBM)
+[![Video Label](https://img.youtube.com/vi/NDHIUlJtXBM/0.jpg)](https://youtu.be/NDHIUlJtXBM)
 
