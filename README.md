@@ -15,6 +15,20 @@ Facebook-CTF-Point-Manager 이 툴은 Flag 값 공유를 막기 위한 목적으
 
 
 
+# Install module
+이 툴을 사용하기 전에 필요한 module을 설치 해야 한다.
+아래 모듈이 없을 경우 수동으로 다운을 받아야 한다.
+
+```
+pip install pymysql
+pip install requests
+pip install bs4
+pip install urllib3 
+pip install argparse
+```
+
+
+
 # How to Use
 
 우선 fbctf_pointManager.py 와 fbctfDB.py를 다운 받는다.
@@ -67,3 +81,6 @@ except Exception as err:
 어떤 문제의 점수가 떨어졌고, 어떤 유저의 점수가 떨어지는지 확인 할 수 있다.
 
 ![image](https://user-images.githubusercontent.com/38517436/61676630-af750880-ad37-11e9-8479-d3592be7b4e2.png)
+
+
+
