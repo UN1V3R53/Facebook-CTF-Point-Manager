@@ -9,4 +9,4 @@ Facebook-CTF-Point-Manager 이 툴은 Flag 값 공유를 막기 위한 목적으
 
 아래 영상은 위 설명은 영상으로 나타낸 것이다.
 
-<iframe src="https://play-tv.kakao.com/v/397295415"></iframe>
+<iframe title="'Universe-blog'에서 업로드한 동영상" width="640" height="360" src="https://play-tv.kakao.com/embed/player/cliplink/397295415?service=daum_tistory" allowfullscreen frameborder="0" scrolling="no" allow="autoplay"></iframe>
